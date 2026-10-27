@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Centered Shield Emblem -->
+    <path
+        android:fillColor="#3D5AFE"
+        android:pathData="M54,24L31.5,31.5v15c0,13.88 9.6,26.85 22.5,30c12.9,-3.15 22.5,-16.13 22.5,-30v-15L54,24z" />
+
+    <!-- White Inner Keyhole / Lock Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34c-4.83,0 -8.75,3.92 -8.75,8.75c0,3.72 2.33,6.92 5.62,8.2v8.05c0,1.72 1.4,3.12 3.13,3.12h0c1.72,0 3.13,-1.4 3.13,-3.12v-8.05c3.3,-1.28 5.62,-4.48 5.62,-8.2C62.75,37.92 58.83,34 54,34z" />
+
+</vector>

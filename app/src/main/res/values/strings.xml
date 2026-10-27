@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Android Login App</string>
+    <string name="splash_tagline">Your Gateway to Great Android Features</string>
+    <string name="version_text">Version 1.0.0</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back</string>
+    <string name="hint_username">Enter Username or Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_reset">Reset</string>
+    <string name="switch_remember_me">Remember Me</string>
+    <string name="link_forgot_password"><u>Forgot Password?</u></string>
+    <string name="link_register">Don\'t have an account? <u>Register</u></string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="hint_full_name">Enter Full Name</string>
+    <string name="hint_email">Enter Email Address</string>
+    <string name="label_gender">Select Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+    <string name="label_skills">Select Technical Skills</string>
+    <string name="skill_android">Android</string>
+    <string name="skill_java">Java</string>
+    <string name="skill_kotlin">Kotlin</string>
+    <string name="skill_flutter">Flutter</string>
+    <string name="skill_react">React Native</string>
+    <string name="hint_custom_skills">Other skills (e.g. Firebase, Git, SQL)</string>
+    <string name="chk_terms">I agree to the Terms &amp; Conditions</string>
+    <string name="btn_register">Register</string>
+    <string name="link_already_account">Already have an account? <u>Login</u></string>
+    <string name="splash_initializing">Initializing secure platform...</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_pwd_title">Forgot Password</string>
+    <string name="forgot_pwd_desc">Enter your registered email address below to receive password reset instructions.</string>
+    <string name="btn_send_reset">Send Reset Link</string>
+    <string name="link_back_to_login"><u>Back to Login</u></string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_pwd_title">Reset Password</string>
+    <string name="reset_pwd_desc">Create a new secure password for your account.</string>
+    <string name="hint_new_password">Enter New Password</string>
+    <string name="hint_confirm_password">Confirm New Password</string>
+    <string name="switch_show_password">Show Passwords</string>
+    <string name="btn_submit_reset">Reset Password</string>
+
+    <!-- Landing Screen / Main Screen -->
+    <string name="landing_title">Dashboard Features</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="feature_profile_title">User Profile</string>
+    <string name="feature_profile_desc">View and manage your account profile and skills.</string>
+    <string name="feature_settings_title">App Settings</string>
+    <string name="feature_settings_desc">Configure theme, preferences and account security.</string>
+    <string name="feature_messages_title">Messages</string>
+    <string name="feature_messages_desc">Check your direct messages and notifications.</string>
+    <string name="feature_analytics_title">Analytics</string>
+    <string name="feature_analytics_desc">View app activity statistics and reports.</string>
+    <string name="feature_notifications_title">Notifications</string>
+    <string name="feature_notifications_desc">Manage alert triggers and push updates.</string>
+    <string name="feature_help_title">Help &amp; Support</string>
+    <string name="feature_help_desc">Find FAQs, guides, and contact customer service.</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">User Profile</string>
+    <string name="profile_role">Senior Android Developer</string>
+    <string name="profile_email_label">Email: %1$s</string>
+    <string name="profile_phone">Phone: +1 (555) 019-2831</string>
+    <string name="profile_location">San Francisco, CA • TechCorp Inc.</string>
+    <string name="profile_stats_projects">Projects</string>
+    <string name="profile_stats_rating">Rating</string>
+    <string name="profile_stats_exp">Experience</string>
+    <string name="skills_title">Technical Skills &amp; Stack</string>
+    <string name="btn_edit_profile">Edit Profile Details</string>
+
+    <!-- Student Card Resources -->
+    <string name="uni_name_1">SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE</string>
+    <string name="uni_name_2">of Science &amp; Technology University</string>
+    <string name="uni_address">Plot # 67, Street #09, Sector H-8/4, Islamabad Pakistan</string>
+    <string name="label_student_card">Digital Student ID Card</string>
+    <string name="label_name">Name</string>
+    <string name="label_class">Class</string>
+    <string name="label_reg_no">Reg. No</string>
+    <string name="label_issue_date">Date of Issue</string>
+    <string name="label_valid_upto">Valid upto</string>
+    <string name="label_cnic">CNIC No.</string>
+    <string name="label_student">Student</string>
+    <string name="label_manager">Manager Administration</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_back_landing">Back to Main Dashboard</string>
+    <string name="str_goto_profile_u">Go to sample <u>Profile</u> screen.</string>
+    <string name="str_goto_login_u">Go to sample <u>Login</u> screen.</string>
+</resources>

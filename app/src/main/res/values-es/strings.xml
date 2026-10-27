@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Inicio de Sesión</string>
+    <string name="splash_tagline">Su Puerta de Entrada a Excelentes Funciones de Android</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Bienvenido de Nuevo</string>
+    <string name="hint_username">Ingrese Usuario o Correo</string>
+    <string name="hint_password">Ingrese Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_reset">Reiniciar</string>
+    <string name="switch_remember_me">Recordarme</string>
+    <string name="link_forgot_password"><u>¿Olvidó su contraseña?</u></string>
+    <string name="link_register">¿No tiene una cuenta? <u>Regístrese</u></string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Crear Cuenta</string>
+    <string name="hint_full_name">Ingrese Nombre Completo</string>
+    <string name="hint_email">Ingrese Correo Electrónico</string>
+    <string name="label_gender">Seleccionar Género</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Femenino</string>
+    <string name="gender_other">Otro</string>
+    <string name="chk_terms">Acepto los Términos y Condiciones</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="link_already_account">¿Ya tiene una cuenta? <u>Iniciar Sesión</u></string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_pwd_title">Olvidó la Contraseña</string>
+    <string name="btn_send_reset">Enviar Enlace</string>
+    <string name="link_back_to_login"><u>Volver al Inicio</u></string>
+
+    <!-- Landing / Main Screen -->
+    <string name="landing_title">Panel de Control</string>
+    <string name="welcome_user">¡Bienvenido, %1$s!</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+</resources>
